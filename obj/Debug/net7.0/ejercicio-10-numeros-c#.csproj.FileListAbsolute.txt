@@ -1,0 +1,14 @@
+/home/pucara/books/ejercicio-10-numeros-c#/bin/Debug/net7.0/ejercicio-10-numeros-c#
+/home/pucara/books/ejercicio-10-numeros-c#/bin/Debug/net7.0/ejercicio-10-numeros-c#.deps.json
+/home/pucara/books/ejercicio-10-numeros-c#/bin/Debug/net7.0/ejercicio-10-numeros-c#.runtimeconfig.json
+/home/pucara/books/ejercicio-10-numeros-c#/bin/Debug/net7.0/ejercicio-10-numeros-c#.dll
+/home/pucara/books/ejercicio-10-numeros-c#/bin/Debug/net7.0/ejercicio-10-numeros-c#.pdb
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.AssemblyInfoInputs.cache
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.AssemblyInfo.cs
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.csproj.CoreCompileInputs.cache
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.dll
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/refint/ejercicio-10-numeros-c#.dll
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.pdb
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ejercicio-10-numeros-c#.genruntimeconfig.cache
+/home/pucara/books/ejercicio-10-numeros-c#/obj/Debug/net7.0/ref/ejercicio-10-numeros-c#.dll

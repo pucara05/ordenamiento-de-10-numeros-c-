@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/pucara/books/ejercicio-10-numeros-c#/ejercicio-10-numeros-c#.csproj": {}
+  },
+  "projects": {
+    "/home/pucara/books/ejercicio-10-numeros-c#/ejercicio-10-numeros-c#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/pucara/books/ejercicio-10-numeros-c#/ejercicio-10-numeros-c#.csproj",
+        "projectName": "ejercicio-10-numeros-c#",
+        "projectPath": "/home/pucara/books/ejercicio-10-numeros-c#/ejercicio-10-numeros-c#.csproj",
+        "packagesPath": "/home/pucara/.nuget/packages/",
+        "outputPath": "/home/pucara/books/ejercicio-10-numeros-c#/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/pucara/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/226/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
